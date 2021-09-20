@@ -116,4 +116,5 @@ Feedstock Maintainers
 =====================
 
 * [@dhirschfeld](https://github.com/dhirschfeld/)
+* [@rvalieris](https://github.com/rvalieris/)
 
