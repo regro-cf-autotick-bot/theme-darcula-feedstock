@@ -15,6 +15,8 @@ build:
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
+  build:
+    - sysroot_linux-64 2.17  # [linux64]
   host:
     - jupyter-packaging >=0.7.9,<0.8
     - jupyterlab >=3.0.0,<4
