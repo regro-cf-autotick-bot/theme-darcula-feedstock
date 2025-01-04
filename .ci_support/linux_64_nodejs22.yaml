@@ -7,4 +7,6 @@ channel_targets:
 docker_image:
 - condaforge/linux-anvil-cos7-x86_64
 nodejs:
-- '17'
+- '22'
+python_min:
+- '3.9'
